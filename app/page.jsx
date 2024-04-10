@@ -1,9 +1,6 @@
-
-import React from 'react'
-const page = () => {
-
 import React from 'react';
 import Message from './components/Message';
+
 const Page = () => {
 
   return (
@@ -13,7 +10,7 @@ const Page = () => {
         <input className='w-[70%] h-[12%] rounded p-2' type="text" placeholder='email' />
         <button className='w-[70%] h-[12%] bg-[#08088e] rounded'>Send</button>
       </div>
-      <div className='h-[300px] overflow-x-auto'>
+      <div className='w-[95%] h-[300px] overflow-x-auto'>
         <div className='flex'>
           <Message />
           <Message />
@@ -25,4 +22,4 @@ const Page = () => {
   );
 };
 
-export default Page;
+  export default Page;
