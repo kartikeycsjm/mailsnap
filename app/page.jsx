@@ -1,6 +1,11 @@
+
+import React from 'react'
+const page = () => {
+
 import React from 'react';
 import Message from './components/Message';
 const Page = () => {
+
   return (
     <div className='w-full h-screen bg-[#0a154b] flex justify-around items-center flex-col'>
       <div className='w-[70%] h-[50%] border rounded-xl flex justify-around items-center flex-col'>
