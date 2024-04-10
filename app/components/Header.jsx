@@ -1,5 +1,4 @@
 import React from 'react'
-
 const Header = () => {
     return (
         <div className='w-full h-[70px] flex justify-around items-center bg-[#0b1234] text-[white]'>
