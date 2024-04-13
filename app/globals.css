@@ -16,14 +16,5 @@ body::-webkit-scrollbar{
 #scrollable::-webkit-scrollbar{
   width: 0px;
 }
-<<<<<<< HEAD
-.d{
-  width: 190px;
-  height: 190px;
-  background-color: rgb(57, 57, 161);
-  margin: 3px;
-  
-}
-=======
->>>>>>> 530b04a991e782bf4096c4b7cc68801afd80aa79
+
 

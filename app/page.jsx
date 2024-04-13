@@ -1,14 +1,8 @@
 import React from 'react';
-<<<<<<< HEAD
-const Page = () => {
-  return (
-    <div className='w-full min-h-screen bg- flex justify-around items-center flex-col'>
-=======
 import Mail from './components/Mail';
 const Page = () => {
   return (
-    <div className='w-full min-h-screen bg-[#e4e1e1] flex justify-around items-center flex-col'>
->>>>>>> 530b04a991e782bf4096c4b7cc68801afd80aa79
+    <div className='w-full min-h-screen bg- flex justify-around items-center flex-col'>
       <div className='w-[70%] h-[320px] rounded-xl flex justify-center items-center flex-col'>
         <textarea className='w-[80%] h-[200px] rounded p-2 resize-none
         md:w-[400px] sm:w-[300px]
