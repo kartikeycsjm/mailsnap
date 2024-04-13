@@ -17,11 +17,11 @@ const Page = () => {
       <div id='scrollable'>
         <div className="border flex justify-center items-center whitespace-no-wrap">
           <Mail emailid={'kartikeymgkp@gmail.com'} message={' Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui harum, porro sequi neque culpa reiciendis totam iure ut excepturi quos unde alias eos consectetur cupiditate facilis ratione eaque dolore provident.'} />
-          <Mail />
-          <Mail />
-          <Mail />
-          <Mail />
-          <Mail />
+          <Mail/>
+          <Mail/>
+          <Mail/>
+          <Mail/>
+          <Mail/>
         </div>
       </div>
     </div>
